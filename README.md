@@ -6,6 +6,8 @@ the usage is simple, just add the [bot](https://discord.com/oauth2/authorize?cli
 
 ```
 /calc 1 + 5
+/calc 10 usd to brl
+/calc 27 years to seconds
 ```
 
 it will solve almost any formula, take a look at the library to know more about libqalculate[^2] features
