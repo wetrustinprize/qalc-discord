@@ -1,0 +1,10 @@
+[package]
+name = "qalc-discord"
+version = "0.0.0"
+edition = "2024"
+
+[dependencies]
+dotenv = { version = "0.15.0" }
+poise = { version = "0.6.1" }
+qalculate-rs = "0.1.0"
+tokio = { version = "1.50.0", features = ["macros", "rt-multi-thread"] }
