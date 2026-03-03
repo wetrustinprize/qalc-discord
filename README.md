@@ -16,7 +16,7 @@ here we use knope[^3] for changeset control, every new feature must have a chang
 
 the deployment of the bot is made using [Github Actions](./.github/workflows/deploy.yaml)
 
-[^1] https://github.com/serenity-rs/poise
-[^2] https://github.com/Qalculate/libqalculate
-[^3] https://github.com/knope-dev/knope
-[^4] https://github.com/changesets/changesets
+[^1]: https://github.com/serenity-rs/poise
+[^2]: https://github.com/Qalculate/libqalculate
+[^3]: https://github.com/knope-dev/knope
+[^4]: https://github.com/changesets/changesets
